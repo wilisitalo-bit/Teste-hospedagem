@@ -1,14 +1,2 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    Olá, este é um teste de hospedagem. Se você está vendo esta mensagem, significa que a hospedagem está funcionando corretamente.
 
-</body>
-            <!-- OHH BRITAA -->
-</html>
 
